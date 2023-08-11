@@ -58,7 +58,7 @@
 
 }
 ```
- </pre>
+  </pre>
 
 -
     - нажать кнопку Esc
@@ -87,7 +87,7 @@
    "side_you_would_like_to_visit": "Czech, Norway, USA"
 }
 ```
- </pre>
+  </pre>
 
 -
     - нажать кнопку Esc
@@ -132,7 +132,7 @@
     "Python": "Learning the basics"
 }
 ```
- </pre>
+  </pre>
 
 -
     - нажать кнопку Esc
@@ -264,7 +264,6 @@
 - vim sklls.xml
   - i
   - содержимое: 
-
 <pre>
 <skills>
   <Basic_theory>
@@ -379,8 +378,7 @@
 **7) Отредактировать содержание файла *“new.txt”* - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате TXT**
 - vim new.txt
   - i
-  - содержимое: 
-  <pre>
+  - содержимое: <pre>
 ```txt
   surname: Shevchenko
   name: Vitalii
@@ -392,7 +390,7 @@
     - middle: 1500
     - senior: 3000
 ```
- </pre>
+</pre>
 
 - нажать кнопку Esc
   - **:**
@@ -408,8 +406,7 @@
 **10) В файл *"preferences.txt”* добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате TXT**
 - vim preferences.txt
   - i
-  - содержимое: 
-  <pre>
+  - содержимое: <pre>
 ```txt
   favorite movie: Interstellar, The Proposal, Rocky
   favorite series: Friends
@@ -417,7 +414,7 @@
   favorite season: Spring, Summer
   side you would like to visit: Czech, Norway, USA
 ```
- </pre>
+</pre>
 
 - нажать кнопку Esc
   - **:**
@@ -427,8 +424,7 @@
 **11) Создать файл *sklls.txt* добавить информацию о скиллах которые будут изучены на курсе в формате TXT**
 - vim sklls.txt
   - i
-  - содержимое: 
-  <pre>
+  - содержимое: <pre>
 ```txt
   Basic theory: Definition and understanding of what testing is, SDLC, STLC, bug reports, documentation, types, methods, areas of testing, etc.
   Client-server architecture: Basic concepts and features
@@ -447,7 +443,7 @@
   Stress Testing: Jmeter
   Python: Learning the basics
 ```
- </pre>
+</pre>
 
 -
     - нажать кнопку Esc
