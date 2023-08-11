@@ -17,8 +17,12 @@
 - нажать ctrl+c
 
 **Запушить структуру багрепорта на внешний репозиторий**
+- git add .
+- git commit -m "Bug report structure.txt"
+- git push -u origin Bag_Reports
 
 **Вмержить ветку Bag Reports в Main**
+
 
 **Запушить main на внешний репозиторий**
 
