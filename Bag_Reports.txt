@@ -1,0 +1,11 @@
+ID:
+Severity:
+Priority:
+Application version:
+Enviroment:
+Title:
+Precondition:
+Steps:
+Expected Result:
+Actual Result:
+Attachments:
