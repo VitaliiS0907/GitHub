@@ -146,7 +146,7 @@
 
 **16) На веб интерфейсе создать файл *bug_report.json***
 - находясь в репозитории JSON нажать кнопку "Add file" -> "Create new file"
-- в поле "Name your file" укахать имя файла "bug_report.json"
+- в поле "Name your file" указать имя файла "bug_report.json"
 
 **17) Сделать Commit changes (сохранить) изменения на веб интерфейсе**
 - нажать кнопку "Commit changes" (указав Commit message: bug_report.json)
