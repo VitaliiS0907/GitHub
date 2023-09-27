@@ -1,4 +1,4 @@
-**На локальном репозитории сделать ветки для:**
+**На локальном репозитории сделать ветки :**
 - Postman - git branch Postman
 - Jmeter - git branch Jmeter
 - CheckLists - git branch CheckLists
