@@ -9,3 +9,23 @@ Steps:
 Expected Result:
 Actual Result:
 Attachments:
+
+
+Example
+___________________________________________________________________________________________________
+ID: iOS3_19
+Severity: Major
+Priority: Medium
+Application version: v3.14.3
+Enviroment: iPhone 7, iOS 15.7.5
+Title: The "Remind about the lesson switch (24.7) does not turn on / off notifications on its own, but transfers to the settings section of the phone's OS application"
+           "Notification Remind about the lesson (24.7)"
+Precondition: 1. The application is running
+              2. The Settings section (24) is open
+Steps: Tap on the switch Remind about the lesson (24.7)
+Expected_Result: Notifications enabled (switch on),
+                 1. Switch Remind about the lesson (24.7) optional
+                    - disabled - the background color of the switch is white
+                    - enabled - the background color of the switch is green
+                 2. Remnders for (application name) are turned off / on without going to the device's system settings
+Actual_Result: Goes to the application settings in the operating systemLink: https://drive.google.com/file/d/1154B_6L9yo8EkL5XcfhFJyChFFGJPZVj/view?usp=share_link
