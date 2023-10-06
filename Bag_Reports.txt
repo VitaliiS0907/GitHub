@@ -28,4 +28,5 @@ Expected_Result: Notifications enabled (switch on),
                     - disabled - the background color of the switch is white
                     - enabled - the background color of the switch is green
                  2. Remnders for (application name) are turned off / on without going to the device's system settings
-Actual_Result: Goes to the application settings in the operating systemLink: https://drive.google.com/file/d/1154B_6L9yo8EkL5XcfhFJyChFFGJPZVj/view?usp=share_link
+Actual_Result: Goes to the application settings in the operating system
+Link: https://drive.google.com/file/d/1154B_6L9yo8EkL5XcfhFJyChFFGJPZVj/view?usp=share_link
